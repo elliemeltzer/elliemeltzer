@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi 👋, I'm Ellie
-<!--
-**elliemeltzer/elliemeltzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Welcome](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QwdzJxaGxyNWwxZWIwOTU0cjI2a3V4dWRoY29oYzJubHUydWc1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UA8yzZgQeq3C02eA2/giphy.gif)
 
 ## Ask me about...
 - Data Visualizations
@@ -8,8 +8,27 @@
 - R
 - Python Libraries
 - Boston!
-- My Dog 🐶 
+- My Dog 🐶
 
-Northeastern University, Boston, MA 	Sept 2024 – present
-Khoury College of Computer Sciences	May 2028      
-Candidate for Bachelor of Science in Data Science and Economic
+## 🚧 Currently Working On:
+- Readly. a website that will put all your news sources in one place making learning about the world easier
+
+## 📊 GitHub Stats
+
+- **Public Repositories**: 
+- **Followers**: 
+- **Following**: 
+- **Commits Made**:
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliemeltzer&show_icons=true&hide_title=true&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Connect with me:
+[![LinkedIn]([(https://www.linkedin.com/in/eleanor-meltzer-8a2388347/)])
+
+<div style="background-color:#333; color: pink ; padding:10px; text-align:center;">
+  <p>Made with ❤️ by Me!</p>
+</div>
+
+
+
