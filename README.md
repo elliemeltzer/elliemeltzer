@@ -20,9 +20,6 @@
 - **Following**: 
 - **Commits Made**:
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliemeltzer&show_icons=true&hide_title=true&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Connect with me:
 [![LinkedIn]([(https://www.linkedin.com/in/eleanor-meltzer-8a2388347/)])
 
