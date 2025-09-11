@@ -13,13 +13,6 @@
 ## 🚧 Currently Working On:
 - Readly. a website that will put all your news sources in one place making learning about the world easier
 
-## 📊 GitHub Stats
-
-- **Public Repositories**: 
-- **Followers**: 
-- **Following**: 
-- **Commits Made**:
-
 ## Connect with me:
 [![LinkedIn]([(https://www.linkedin.com/in/eleanor-meltzer-8a2388347/)])
 
