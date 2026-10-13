@@ -5,13 +5,13 @@
 ## Ask me about...
 - Data Visualizations
 - Python
-- R
+- Remetra! 
 - Python Libraries
 - Boston!
 - My Dog 🐶
 
 ## 🚧 Currently Working On:
-- Readly. a website that will put all your news sources in one place making learning about the world easier
+- Remetra, a mobile app for people with digestive related autoimmune diseases (or just girl with tummy issues), so you can cut out specific ingredients instead of entire food groups 
 
 ## Connect with me:
 [![LinkedIn]([(https://www.linkedin.com/in/eleanor-meltzer-8a2388347/)])
